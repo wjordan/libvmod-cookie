@@ -1,3 +1,9 @@
+libvmod-cookie (1.03+4.0.3-3~trusty) trusty; urgency=low
+
+  * Ubuntu package
+
+ -- Will Jordan <will@code.org>  Wed, 2 Sep 2015 12:10:00 +0700
+
 libvmod-cookie (1.03) unstable; urgency=low
 
   * First version
