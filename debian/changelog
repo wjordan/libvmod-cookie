@@ -1,3 +1,9 @@
+libvmod-cookie (1.03+4.1.0-1~trusty) trusty; urgency=low
+
+  * Update upstream
+
+ -- Will Jordan <will@code.org>  Wed, 28 Oct 2015 10:45:00 +0700
+
 libvmod-cookie (1.03+4.0.3-5~trusty) trusty; urgency=low
 
   * Update upstream
